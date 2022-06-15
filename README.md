@@ -1,14 +1,14 @@
 # microbit
 
-```blocks
+``` blocks
 basic.showString("Hello World")
 ```
 
-```blocks
+``` blocks
 let thousand = 1000
 ```
 
-```blocks
+``` blocks
 for(let i = 0; i <= 4; ++i) {
     let j = i;
 }
