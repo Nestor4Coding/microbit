@@ -2,7 +2,7 @@
 
 ``` { .blocks }
 
-    basic.showString("Hello World")
+basic.showString("Hello World")
 
 ```
 
