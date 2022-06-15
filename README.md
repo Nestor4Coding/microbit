@@ -1,6 +1,7 @@
 # microbit
 
-blocks```
+blocks
+```
 basic.showString("Hello World")
 ```
 
