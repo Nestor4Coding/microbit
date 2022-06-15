@@ -1,6 +1,6 @@
 # microbit
 
-```ruby { .blocks }
+```blocks { .blocks }
 
 basic.showString("Hello World")
 
