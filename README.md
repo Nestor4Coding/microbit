@@ -1,6 +1,6 @@
 # microbit
 1
-```block
+``` block
 basic.showString("Hello World")
 ```
 2
