@@ -1,17 +1,17 @@
 # microbit
 
     blocks
-basic.showString("Hello World")
+    basic.showString("Hello World")
 
 
     blocks
-let thousand = 1000
+    let thousand = 1000
     
 
     blocks
-for(let i = 0; i <= 4; ++i) {
-    let j = i;
-}
+    for(let i = 0; i <= 4; ++i) {
+        let j = i;
+    }
     
 
 
