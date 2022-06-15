@@ -1,9 +1,7 @@
 # microbit
 
 <pre class="blocks"><code>
-
 basic.showString("Hello World")
-
 <code></pre>
 
 
