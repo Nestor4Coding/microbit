@@ -1,5 +1,9 @@
 # microbit
 
+```renderblocks
+let thousand = 1000
+```
+
 ```blocks
 let thousand = 1000
 ```
