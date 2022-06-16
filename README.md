@@ -1,5 +1,8 @@
 # microbit
 
+```blocks
+```
+
 <div>
   <pre class="blocks"><code>basic.showString("Hello World")</code></pre>
   <pre class="block"><code>basic.showString("Hello World")</code></pre>
